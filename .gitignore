@@ -158,6 +158,6 @@ vite.config.ts.timestamp-*
 dist/
 *.tsbuildinfo
 
-# api
+# Todo text files (runtime data, not source)
+data/
 dist/
-.astro/
